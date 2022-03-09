@@ -12,9 +12,10 @@ methods: {
 toggleShowBooks(){
   this.showBooks = !this.showBooks
 }
-    // changeTitle() {
-    //   this.title = 'Words of Randiance'
-    }
-})
+}
 
+})
+// changeTitle() {
+//       this.title = 'Words of Randiance'
+//     }
 app.mount('#app')
